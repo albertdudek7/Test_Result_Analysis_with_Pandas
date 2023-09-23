@@ -35,4 +35,5 @@ Scores by School Size
 Scores by School Type
 ![image](https://github.com/albertdudek7/Test_Result_Analysis_with_Pandas/assets/127783844/d23d728e-7530-4067-a18c-472fae4b723f)
 
-
+Written Analysis of the Findings: 
+![image](https://github.com/albertdudek7/Test_Result_Analysis_with_Pandas/assets/127783844/7e42f60f-1957-4f91-802d-6e8d02901671)
